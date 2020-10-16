@@ -1,2 +1,3 @@
 # Company-Name-Generator
-Flutter codelabs Google tutorials.
+A Flutter codelabs Google tutorial a bit modified.
+Focus: passing data between pages.
